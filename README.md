@@ -55,19 +55,26 @@ soon
 
 
 1- Download the offical Hoplite Client ( https://hoplite.gg/installer )
-2- download your Hopelite Tweaks version you want
-3- Open the Hopelite_Tweaks-Installer.exe
-4- Follow the install instrucions
-5- Press the button "Inject" in the left bottom corner
-6- Now alt tab to your minecraft sesion and press right shift
-7- Enjoy the client!
 
-NOTE: IF NOT DONE ALREADY, START MINECRAFT WITH YOUR FABRIC MOD LOADER
+2- download your Hopelite Tweaks version you want
+
+3- Open the Hopelite_Tweaks-Installer.exe
+
+4- Follow the install instructions
+
+5- Press the button "Inject" in the left bottom corner
+
+6- Now alt tab to your minecraft sesion and press right shift
+
+
+*NOTE: IF NOT DONE ALREADY, START MINECRAFT WITH YOUR FABRIC MOD LOADER*
 
 9- like ive done in the video, keep the server opened and drag and drop opelite_Tweaks-Installer.exe to the other file named "Kangaroo patcher" (Look at the video if you need help on this)
-10- let it load a few seconds, and you are ready to g
+
+10- let it load a few seconds, and you are ready to go!
+
 
 # Suport 
 
 If you need help hook me up on discord: 
-    elldidi
+<h2>marlowww</h2>
