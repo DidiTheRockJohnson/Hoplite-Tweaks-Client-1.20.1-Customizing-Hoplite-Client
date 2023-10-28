@@ -53,13 +53,10 @@ soon
 
 # How to install?
 
-1- install python 3.9
-1.1- Beafore pressing on "install now" please make sure to check the box "Add to path" located at the bottom of the installation page
-1.2- Press "install now"
 
-2- Download the offical Hoplite Client ( https://hoplite.gg/installer )
-3- download your Hopelite Tweaks version you want
-4- Open the Hopelite_Tweaks-Installer.exe
+1- Download the offical Hoplite Client ( https://hoplite.gg/installer )
+2- download your Hopelite Tweaks version you want
+3- Open the Hopelite_Tweaks-Installer.exe
 4- Follow the install instrucions
 5- Press the button "Inject" in the left bottom corner
 6- Now alt tab to your minecraft sesion and press right shift
