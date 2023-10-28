@@ -16,7 +16,6 @@ This is a software that allows you to tweak Hoplite Client to your liking and re
     Custom Mods – Allows you to define custom mods, and creates some custom mods as well
     Remove Fake Levelhead – Removes the “feature” that hoplite has to assign nicked players random levels in their Levelbar
     Fix Ping Sound – Fixes the chat mod “Play sound on mention” system to only respond to actual chat messages, not action bars
-    NoHitDelay – Enables legacy combat, that makes sure the client doesn’t prevent swing/attack packets being sent for no reason
     Window Title – Allows you to change the name of the window
     Tasklist Privacy – Prevents Hoplite Client from sending all your processes to Hoplite Servers
     Hostlist Privacy – Prevents Hoplite Client from sending all your hosts file to Hoplite Servers
