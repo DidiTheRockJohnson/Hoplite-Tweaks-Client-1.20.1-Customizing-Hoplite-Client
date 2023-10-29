@@ -50,6 +50,7 @@ This is a software that allows you to tweak Hoplite Client to your liking and re
 <img src='https://github.com/DidiTheRockJohnson/Hoplite-Tweaks-Client-1.20.1-Customizing-Hoplite-Client/assets/140116286/04dec18f-97eb-4b4c-bc89-43f9555a0e0d)' width='400'>
 
 <img src='https://github.com/DidiTheRockJohnson/Hoplite-Tweaks-Client-1.20.1-Customizing-Hoplite-Client/assets/140116286/3b6d69dd-01d7-456d-b288-28d6ce465b54)' width='400'>
+<img src='https://github.com/DidiTheRockJohnson/Hoplite-Tweaks-Client-1.20.1-Customizing-Hoplite-Client/assets/140116286/2c3c2f66-a280-4218-9838-6983f5b7a6df)' width='400'>
 
 # How to install?
 
