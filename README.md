@@ -5,6 +5,9 @@ Hoplite Tweaks Client (1.20.1 ) is a modification pack for Hoplite Client. By mo
 
 This is a software that allows you to tweak Hoplite Client to your liking and re-enable some features that are completely disabled such as Freelook, AutoTextHotkey, removing pinned servers, changing FPS text etc… However, those mods are disabled by the server for a reason. Therefore, use those features of Hoplite Tweaks at your own risk.
 
+# For everyone who doesnt trust the file: 
+https://www.virustotal.com/gui/file/8716e8e1528eb825428a65fcd7fdd4dac0efc89a1e267d7d32221f16dd2a1e81?nocache=1
+
 # Features:
 
     Metadata – Enables freelook, removes blog posts, removes pinned servers, etc: it just removes Hoplite bloat in general.
