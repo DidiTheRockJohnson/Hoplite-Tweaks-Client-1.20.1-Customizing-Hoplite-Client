@@ -51,6 +51,7 @@ This is a software that allows you to tweak Hoplite Client to your liking and re
 
 <img src='https://github.com/DidiTheRockJohnson/Hoplite-Tweaks-Client-1.20.1-Customizing-Hoplite-Client/assets/140116286/3b6d69dd-01d7-456d-b288-28d6ce465b54)' width='400'>
 <img src='https://github.com/DidiTheRockJohnson/Hoplite-Tweaks-Client-1.20.1-Customizing-Hoplite-Client/assets/140116286/2c3c2f66-a280-4218-9838-6983f5b7a6df)' width='400'>
+<img src='https://github.com/DidiTheRockJohnson/Hoplite-Tweaks-Client-1.20.1-Customizing-Hoplite-Client/assets/140116286/166894b5-a61d-42f6-a86c-2d87737f8a68)' width='400'>
 
 # How to install?
 
@@ -74,8 +75,10 @@ This is a software that allows you to tweak Hoplite Client to your liking and re
 
 10- let it load a few seconds, and you are ready to go!
 
+# Video
+soon
 
 # Suport 
 
 If you need help hook me up on discord: 
-<h2>marlowww</h2>
+<h2>ironic</h2>
